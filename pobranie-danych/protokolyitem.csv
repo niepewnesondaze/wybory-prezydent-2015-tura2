@@ -1,0 +1,19 @@
+1;Liczba wyborców uprawnionych do g³osowania (umieszczonych w spisie, z uwzglêdnieniem dodatkowych formularzy) w chwili zakoñczenia g³osowania
+2;Komisja otrzyma³a kart do g³osowania
+3;Nie wykorzystano kart do g³osowania
+4;Liczba wyborców, którym wydano karty do g³osowania (liczba podpisów w spisie oraz adnotacje „odmowa podpisu”)
+5;Liczba wyborców g³osuj¹cych przez pe³nomocnika (liczba kart do g³osowania wydanych na podstawie otrzymanych przez komisjê aktów pe³nomocnictwa)
+6;Liczba wyborców g³osuj¹cych na podstawie zaœwiadczenia o prawie do g³osowania
+7;Liczba wyborców, którym wys³ano pakiety wyborcze
+8;Liczba otrzymanych kopert zwrotnych
+8a;Liczba kopert zwrotnych, w których nie by³o oœwiadczenia o osobistym i tajnym oddaniu g³osu
+8b;Liczba kopert zwrotnych, w których oœwiadczenie nie by³o podpisane przez wyborcê
+8c;Liczba kopert zwrotnych, w których nie by³o koperty na kartê do g³osowania
+8d;Liczba kopert zwrotnych, w których znajdowa³a siê niezaklejona koperta na kartê do g³osowania
+8e;Liczba kopert na kartê do g³osowania wrzuconych do urny
+9;Liczba kart wyjêtych z urny
+9a;w tym liczba kart wyjêtych z kopert na karty do g³osowania
+10;Liczba kart niewa¿nych (innych ni¿ urzêdowo ustalone lub nieopatrzonych pieczêci¹ obwodowej komisji wyborczej)
+11;Liczba kart wa¿nych
+12;Liczba g³osów niewa¿nych (z kart wa¿nych)
+13;Liczba g³osów wa¿nych oddanych ³¹cznie na wszystkie listy kandydatów (z kart wa¿nych)
